@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer and Front-End Developer.<br>I am currently working on MACHINE LEARNING and ARTIFICIAL INTELLIGENCE.<br>Open-Source and Java-Script are my go-to languages.
+I am a Software Developer and Front-End Developer.<br>I am currently working on MACHINE LEARNING and ARTIFICIAL INTELLIGENCE.
 
 
 ## 🌐 Socials:
